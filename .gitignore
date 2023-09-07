@@ -1,0 +1,10 @@
+/target
+session_key
+/web
+/rdb
+Cargo.lock
+/.gitignore
+/.idea
+/.cargo
+/.vscode
+embed/mystudio.ini
